@@ -1,21 +1,37 @@
-## Havens.PK
+# havens.pk
 
-### A website that lists all Haven events in Pakistan.
+a site of hack club havens across pakistan to make it easier to discover events, explore locations, and find communities to get involved with :D
 
-Deployed at https://haven.dino.icu
+## about
 
-Soon will also be deployed at https://hackclub.pk
+havens.pk was originally created by muhammad ali and submitted to #3am in hackclub, and this repository builds on that existing project through further development and contributions. 
 
-### To self host:
+### what contributions did i make?
 
-1. Clone the repo
-1. Host the files inside in a local server and open it to see results
+my contributions include an interactive map to visualize havens across pakistan, improvements to how locations and individual havens are presented, and enhancements to the website's layout and responsiveness. i almost changed the entire ui of the site, it was dark themed before with no images in the cards and no map, i also introduced a new "is this legit" section. i will take this further and try to make the ui better and add a "faq" section too with a proper nav bar. 
 
-### To contribute:
+<div align="center">
+  <img src="https://cdn.hackclub.com/01a181e3-8131-7cf8-967a-eed2775fb62d/havns.pk%20map.jpg" width="32%" alt="havens.pk map">
+  <img src="https://cdn.hackclub.com/01a181e3-809d-71bd-9797-aa16734abafc/havenspk-3.jpg" width="32%" alt="havens.pk screenshot 2">
+  <img src="https://cdn.hackclub.com/01a181e3-7f9e-7c6f-9895-892de19b22d0/havens.pk2.jpg" width="32%" alt="havens.pk screenshot 3">
+</div>
 
-1. Fork the repo
-1. Make changes, commit and push
-1. Create a pull request along with a small description for each of the changes done by you
-1. No AI pull requests will be accepted :P
 
-### Made with <3 by Muhammad Ali :3c
+## live website
+
+visit https://hackclub.pk to explore the website.
+
+## to self-host
+
+1. clone the repository.
+2. host the project files on a local server and open the website in your browser.
+
+## to contribute
+
+1. fork the [original repository](https://github.com/Alimadcorp/hackclub.pk).
+2. make your changes, commit them, and push them to your fork.
+3. open a pull request against the original repository with a brief description of your changes.
+
+## credits
+
+made with <3 by muhammad ali and alisha :3c
